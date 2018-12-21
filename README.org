@@ -1,0 +1,10 @@
+* Peripheral library for 8051 family MCU's
+This is collection of C libraries for 8051 family MCU's
+* Tools
+** Compiler : SDCC
+** Build    : GNU Make
+** Flasher  : Flash Magic (Program loader from NXP semiconductor)
+* Tasks
+** Good README
+** CI/CD and build badger
+** Tweaking comments
